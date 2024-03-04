@@ -1,10 +1,14 @@
 # CoreXY_Plotter_GRBL
 
-CoreXY Plotter with tool change. Adaptive Z-axis provide easier usage on the plane which is not so even 
-
 
 
  [简体中文](README.md)				[English](README_en.md)
+
+
+
+CoreXY Plotter with tool change. Adaptive Z-axis provide easier usage on the plane which is not so even 
+
+
 
 
 

@@ -1,13 +1,19 @@
 # CoreXY_Plotter_GRBL
+
+
+ [简体中文](README.md)				[English](README_en.md)
+
+
+
 CoreXY结构写字机(绘图机)，支持换笔功能，自适应Z不需要对桌面进行调平。
 
-写字机框架与传动部分设计来自Bilibili @大鱼DIY (https://www.bilibili.com/video/BV1Uh411Q7Zp/?spm_id_from=333.337.search-card.all.click&vd_source=3279756b2e375cd101c427636ba8a34f)
+写字机框架与传动部分设计来自Bilibili @大鱼DIY
+
+ (https://www.bilibili.com/video/BV1Uh411Q7Zp/?spm_id_from=333.337.search-card.all.click&vd_source=3279756b2e375cd101c427636ba8a34f)
 
 本项目基于上述项目进行了部分优化
 
 
-
- [简体中文](README.md)				[English](README_en.md)
 
 
 
