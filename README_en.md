@@ -4,7 +4,7 @@ CoreXY Plotter with tool change. Adaptive Z-axis provide easier usage on the pla
 
 
 
-简体中文				English
+ [简体中文](README.md)				[English](README_en.md)
 
 
 

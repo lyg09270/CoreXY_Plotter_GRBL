@@ -7,7 +7,7 @@ CoreXY结构写字机(绘图机)，支持换笔功能，自适应Z不需要对�
 
 
 
-简体中文				English
+ [简体中文](README.md)				[English](README_en.md)
 
 
 
